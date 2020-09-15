@@ -18,7 +18,6 @@ export default function Index() {
         my={4}
         height="100%"
       >
-        aa
         <Typography variant="h4" component="h1" gutterBottom>
           Next.js with TypeScript example
         </Typography>
